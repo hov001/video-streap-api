@@ -1,0 +1,26 @@
+{
+  "name": "video-stream",
+  "version": "1.0.0",
+  "description": "Live video stream with express socket.io and React",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "react",
+    "nodejs",
+    "express",
+    "socket.io"
+  ],
+  "author": "H. Kocharyan <hovkocharyan81@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.1"
+  }
+}
